@@ -70,4 +70,7 @@ With NPM Scripts (recommended):
 ### From project root
 docker-compose up --build
 
+## 📸 Screenshots
 
+### 🖥️ Admin Dashboard (Real-time updates)
+![Admin Dashboard](./screenshots/dashboard.png)
