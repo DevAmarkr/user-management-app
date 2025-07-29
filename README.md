@@ -21,17 +21,14 @@ This is a full-stack MERN application with real-time updates built as part of a 
 - **Add New User** via a form (name, email, role)
 - **Admin Dashboard** displays user list
 - **Real-Time Notification**: When a user is added, all connected admin dashboards receive a toast alert
-
-### ✨ Bonus
 - **Live Search Filter**: Search through users by name or email
 - **Materialize Styling**: Clean UI with badges, icons, and responsive table
 - **Toast Notifications**: Socket-based updates when new users are added
 
----
-
 ## 🚀 Getting Started
 
 ### 📁 Folder Structure
+```
 user-management-app/
 ├── backend/
 │ ├── .env
@@ -42,6 +39,7 @@ user-management-app/
 │ └── ... (components, App.tsx)
 ├── docker-compose.yml (optional)
 └── README.md
+```
 
 
 ---
